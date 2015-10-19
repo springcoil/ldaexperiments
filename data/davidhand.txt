@@ -1,0 +1,27 @@
+David Hand is Senior Research Investigator and Emeritus Professor of Mathematics at Imperial College, London, and Chief Scientific Advisor to Winton Capital Management. He is a Fellow of the British Academy, and a recipient of the Guy Medal of the Royal Statistical Society. He has served (twice) as President of the Royal Statistical Society, and is on the Board of the UK Statistics Authority. He has published 300 scientific papers and 26 books. He has broad research interests in areas including classification, data mining, anomaly detection, and the foundations of statistics. His applications interests include psychology, physics, and the retail credit industry – he and his research group won the 2012 Credit Collections and Risk Award for Contributions to the Credit Industry. He was made OBE for services to research and innovation in 2013.
+
+
+WHAT PROJECTS HAVE YOU WORKED ON THAT YOU WISH YOU COULD GO BACK TO AND DO BETTER?
+
+I think I always have this feeling about most of the things I have worked on – that, had I been able to spend more time on it, I could have done better. Unfortunately, there are so many things crying out for one’s attention that one has to do the best one can in the time available. Quality of projects probably also has a diminishing returns aspect – spend another day/week/year on a project and you reduce the gap between its current quality and perfection by a half. Which means you never achieve perfection.
+
+WHAT ADVICE DO YOU HAVE TO YOUNGER ANALYTICS PROFESSIONALS AND IN PARTICULAR PHD STUDENTS IN THE SCIENCES?
+
+I generally advise PhD students to find a project which interests them, which is solvable or on which significant headway can be made in the time they have available, and which other people (but not too many) care about. That last point means that others will be interested in the results you get, while the qualification means that there are not also thousands of others working on the problem (because that would mean you would probably be pipped to the post).
+
+WHAT DO YOU WISH YOU KNEW EARLIER ABOUT BEING A STATISTICIAN? WHAT DO YOU THINK INDUSTRIAL DATA SCIENTISTS HAVE TO LEARN FROM THIS?
+
+I think it is important that people recognise that statistics is not a branch of mathematics. Certainly statistics is a mathematical discipline, but so are engineering, physics, and surveying, and we don’t regard them as parts of mathematics. To be a competent professional statistician one needs to understand the mathematics underlying the tools, but one also needs to understand something about the area in which one is applying those tools. And then there are other aspects: it may be necessary, for example, to use a suboptimal method if this means that others can understand and buy in to what you have done. Industrial data scientists need to recognise the fundamental aim of a data scientist is to solve a problem, and to do this one should adopt the best approach for the job, be it a significance test, a likelihood function, or a Bayesian analysis. Data scientists must be pragmatic, not dogmatic. But I’m sure that most practicing data scientists do recognise this.
+
+The fundamental aim of a data scientist is to solve a problem. #datascience CLICK TO TWEET
+HOW DO YOU RESPOND WHEN YOU HEAR THE PHRASE ‘BIG DATA’?
+
+Probably a resigned sigh. ‘Big data’ is proclaimed as the answer to humanity’s problems. However, while it’s true that large data sets, a consequence of modern data capture technologies, do hold great promise for interesting and valuable advances, we should not fail to recognise that they also come with considerable technical challenges. The easiest of these lie in the data manipulation aspects of data science (the searching, sorting, and matching of large sets) while the toughest lie in the essentially statistical inferential aspects. The notion that one nowadays has ‘all’ of the data for any particular context is seldom true or relevant. And big data come with the data quality challenges of small data along with new challenges of its own.
+
+WHAT IS THE MOST EXCITING THING ABOUT YOUR FIELD?
+
+Where to begin! The eminent statistician John Tukey once said ‘the great thing about statistics is that you get to play in everyone’s back yard’, meaning that statisticians can work in medicine, physics, government, economics, finance, education, and so on. The point is that data are evidence, and to extract meaning, information, and knowledge from data you need statistics. The world truly is the statistician’s oyster.
+
+DO YOU FEEL UNIVERSITIES WILL HAVE TO ADAPT TO ‘DATA SCIENCE’? WHAT DO YOU THINK WILL HAVE TO BE DONE IN SAY MATHEMATICAL EDUCATION TO KEEP UP WITH THESE TRENDS?
+
+Yes, and you can see that this is happening, with many universities establishing data science courses. Data science is mostly statistics, but with a leavening of relevant parts of computer science – some knowledge of databases, search algorithms, matching methods, parallel processing, and so on.

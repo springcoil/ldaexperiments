@@ -1,0 +1,584 @@
+Vanessa Sabino started her career as a system analyst in 2000, and in 2010 she jumped at the opportunity to start working with Digital Analytics, which brought together her educational background in Business, Applied Mathematics, and Computer Science. She gained experience from Internet companies in Brazil before moving to Canada, where she is now a data analysis lead for Shopify, transforming data into Marketing insights.
+
+
+
+WHAT PROJECTS HAVE YOU WORKED ON THAT YOU WISH YOU COULD GO BACK TO AND DO BETTER?
+
+Working as practitioner in a company, as opposed to consulting, means I always have the option of going back and improving past projects, as long as the time spent on this task can be justified. There are always new ideas to try and new libraries being published, so as a team lead I try to balance the time spent on higher priority tasks, which for my team currently is ETL work to improve our data warehouse, with exploratory analysis of our data sets and creating and improving models that add value to our business users.
+
+WHAT ADVICE DO YOU HAVE TO YOUNGER ANALYTICS PROFESSIONALS AND IN PARTICULAR PHD STUDENTS IN THE SCIENCES?
+
+My advice is to not underestimate the importance of communication skills, which goes from listening, in order to understand exactly what the data means and the context in which it is used, to presenting your results in a way that demonstrates impact and resonates with your audience.
+
+WHAT DO YOU WISH YOU KNEW EARLIER ABOUT BEING A DATA SCIENTIST?
+
+I wish I knew 20 years ago how to be a data scientist! When I was finishing high school and I had to decide what to do in university, I had some interest in Computer Science, but I had no idea what a career in that area would be like. The World Wide Web was just starting, and living in Brazil, I had the impression that all software developing companies were north of the Equator. So I decided to study Business, imagining I’d be able to spend my days using spreadsheets to optimize things. During the course I learned about data warehouses, business intelligence, statistics, data mining and decision science, but when it was over it was not clear how to get a job where I could apply this knowledge. I went to work on a IT consulting company, where I had the opportunity to improve my software developing skills, but I missed working with numbers, so after two years I left to start a new undergrad in Applied Mathematics, followed by a Masters in Computer Science. Then I continued working as a software developer, now in web companies, and that’s when I started learning about the vast amount of online behavior data they were collecting and the techniques being used to leverage its potential. “Data scientist” is a new name for something that covers many different traditional roles, and a better understanding of the related terms would have allowed me to make this career move sooner.
+
+HOW DO YOU RESPOND WHEN YOU HEAR THE PHRASE ‘BIG DATA’?
+
+I prefer to work closer to data analysis than to data engineering, so in an ideal world I’d have a small data set with a level of detail just right to summarize everything that I can extract from that data. Whatever size the data is, if someone is calling it big data it probably means that the tool they are using to manipulate it is no longer meeting certain expectations, and they are struggling with the technology in order to get their job done. I find it a little frustrating when you write correct code that should be able to transform a certain input to the desired output, but things don’t work as expected due to a lack of computing resources, which means you have to do extra work to get what you want. And the new solution only lasts until your data outgrows it again. But that’s just the way it is, and being in the boundary of what you can handle means you’ll be learning and growing in order to overcome the next challenges.
+
+WHAT IS THE MOST EXCITING THING ABOUT YOUR FIELD?
+
+I’m excited about the opportunities to collaborate in a wide range of projects. Nowadays everyone wants to improve things with data informed decisions, so you get to apply your skills to many areas and you learn a lot in the process.
+
+HOW DO YOU GO ABOUT FRAMING A DATA PROBLEM – IN PARTICULAR, HOW DO YOU AVOID SPENDING TOO LONG, HOW DO YOU MANAGE EXPECTATIONS ETC. HOW DO YOU KNOW WHAT IS GOOD ENOUGH?
+
+I always like to start with simple proof of concepts and iterate from there, using feedback from stakeholders to identify where are the biggest gains so that I can pivot the project in the right direction. But the most important thing in this process is to constantly ask “why”, in particular when dealing with requests. This helps you validate the understanding of the problem and enables you to offer better alternatives that the business user might not be aware of when they make a request.
+
+WHAT PROJECTS HAVE YOU WORKED ON THAT YOU WISH YOU COULD GO BACK TO AND DO BETTER?
+
+I agree that it is better to look forward rather than look backward. And my skills have frankly improved since I first started doing what we could call professional data analysis (which was probably just before starting my Masters a few years ago).
+
+One project I did which springs to mind (and not naming names) is where there was a huge breakdown in communication and misaligned incentives. There needed to be more communication on that project and it overran the initial allotted time. I also spent not enough time communicating up front the risks and opportunities with the stakeholders.
+
+The data was a lot messier than expected, and management had committed to delivered results in 2 weeks. This was impossible, the data cleaning and exploration phase took too long. Now I would focus on quicker wins. I also rushed to the ‘modelling’ phase without really understanding the data. I think such terms ‘understanding the data’ sound a bit academic to some stakeholders, but you need to clearly and articulately explain how important the data generation process is, and the uncertainty in that data.
+
+Some of this comes from experience – now I focus on adding value as quickly as possible and keeping things simple. There I fell to the siren call of ‘do more analysis’ rather than thinking about how the analysis is conveyed.
+
+WHAT ADVICE DO YOU HAVE TO YOUNGER ANALYTICS PROFESSIONALS AND IN PARTICULAR PHD STUDENTS IN THE SCIENCES?
+
+I don’t have a PhD but I have recently been giving advice to people in that situation.
+
+My advice is that having a portfolio of work if possible is great, or at least move towards doing an online course on Machine Learning or something cool like that.
+
+The PyData videos are a good start too to watch. I’d recommend if you can to do any outreach or communication skills courses. There are many such courses at a lot of universities around the world, it’ll just help you understand the needs of others.
+
+I think frankly that the most important skill for a Data Science is the ‘tactical application of empathy’ and that is something that working in a team really helps you develop. One thing I feel my Masters let me down on – as is common in Pure Mathematics – was a shortage of experience working in a team.
+
+WHAT DO YOU WISH YOU KNEW EARLIER ABOUT BEING A DATA SCIENTIST?
+
+The focus on communication skills, the need to add value every day. The fact that budget or a project can be terminated at any moment.
+
+Adding value every day means showing results and sharing them, talking to people about stuff. Share visualizations, and share results – a lot of data science is about relationships and empathy. In fact I think that the tactical application of empathy is the greatest skill of our times.
+
+'The tactical application of empathy is the greatest skill of our times' - @springcoil CLICK TO TWEET
+You need to get out there and speak to the domain specialist, and understand what they understand. I believe that the best algorithms incorporate human as well as machine intelligence.
+
+HOW DO YOU RESPOND WHEN YOU HEAR THE PHRASE ‘BIG DATA’?
+
+I do like the distinction of small, medium and big data. I don’t worry so much about the terminology, and I focus on understanding exactly what my stakeholder wants from it.
+
+I think, though, that it is often a distraction. I did one proof of concept as a consultant, that was an operational disaster. We didn’t have the resources to support a dev ops culture, nor did we have the capabilities to support a Hadoop cluster. Even worse the problem really could be solved more intelligently by being in RAM. But I got excited by the new tools, without understanding what they were really for.
+
+I think this is a challenge, part of myself maturing as an engineer/data scientist is appreciating the limits of tools and avoiding the hype. Most companies don’t need a cluster, and the mean size of a cluster will remain one for a long time. Don’t believe the salesmen, and ask the experts in your community about what is needed.
+
+In short: I feel it is strongly misleading but it is certainly here to stay.
+
+HOW DID YOU END UP BEING A DATA ANALYST? WHAT IS THE MOST EXCITING THING ABOUT YOUR FIELD?
+
+My academic and professional career have a bit of weird path. I started at Bristol in a Physics and Philosophy program. It was a really exciting time, and I learned a lot (some of it non-academic). I went into that program because I wanted to learn everything. At various points – especially in 2009-2010 the terminology of ‘data science’ began to pick up, and when I went into grad school in 2010, I was ‘aware’ of the discipline. I took a lot of financial maths classes at Luxembourg, just to keep that option open, yet I still in my heart wanted to be an academic.
+
+I eventually realized (after some soul-searching) that academic opportunities were going to be too difficult to get, and that I could earn more in industry. So I did a few industrial internships including one at import.io, and towards the end of my Masters – I did a 6 month internship at a ‘small’ e-commerce company called Amazon.
+
+I learned a lot at Amazon, and it was there that I realized i needed to work a lot harder on my software engineering skills. I’ve been working on them in my working life and through contributing to open source software and my various speaking engagements. I strongly recommend to any wanna data geeks to come to these and share your own knowledge :)
+
+The most exciting thing about my field relates to the first statement about physics and philosophy – we truly are drowning in data, and we really with the computational resources we have now have the ability to answer or simulate certain questions in a business context. The web is a microscope, and your ERP system tells you more about your business than you can actually imagine – I’m very excited to help companies exploit their data.
+
+HOW DO YOU GO ABOUT FRAMING A DATA PROBLEM – IN PARTICULAR, HOW DO YOU AVOID SPENDING TOO LONG, HOW DO YOU MANAGE EXPECTATIONS ETC. HOW DO YOU KNOW WHAT IS GOOD ENOUGH?
+
+I like the OSEMIC framework (which I developed myself) and the CoNVO framework (which comes from Thinking with Data by Max Schron – I recommend the following video for an intro and the book itself.)
+
+Let me explain – at the beginning of an ‘engagement’ I look for the Context, Need, Vision and Outcome of the project. Outcome means the delivery and asking these questions by having a conversation with stakeholders is a really good way to get to solving the ‘business problem’.
+
+'I look for the Context, Need, Vision and Outcome of the project'' - @springcoil #datascience CLICK TO TWEET
+A lot of this after a few years in the business still feels like an art rather than a science.
+
+I like explaining to people the Data Science process – obtain data, scrub data, explore, model, interpret and communicate.
+
+I think a lot of people get these kinds of notions and a lot of my conversations recently at work have been about data quality – and data quality really needs domain knowledge. It is amazing how easy it is to misinterpret a number – especially around things like unit conversion etc.
+
+YOU SPENT SOMETIME AS A CONSULTANT IN DATA ANALYTICS. HOW DID YOU MANAGE CULTURAL CHALLENGES, DEALING WITH STAKEHOLDERS AND EXECUTIVES? WHAT ADVICE DO YOU HAVE FOR NEW STARTERS ABOUT THIS?
+
+I would see a lot of the stuff above. One challenge is that some places aren’t ready for a data scientist nor do they know how to use one. I would avoid such places, and look for work elsewhere.
+
+Some of this is a lack of vision, and one reason I do a lot of talks is to do ‘educated selling’ about the gospel of data-informed decision making and how the new tools such as the PyData stack and R are helping us extract more and more value out of data.
+
+I’ve also found that visualizations help a lot, humans react to stories and pictures more than to numbers.
+
+My advice to new-starters is over communicate, and learn some soft skills. The frameworks I mentioned help a bit in structuring and explaining a project to stakeholders. I recommend also reading this interview series, I learned a lot from it too. :)
+
+David Hand is Senior Research Investigator and Emeritus Professor of Mathematics at Imperial College, London, and Chief Scientific Advisor to Winton Capital Management. He is a Fellow of the British Academy, and a recipient of the Guy Medal of the Royal Statistical Society. He has served (twice) as President of the Royal Statistical Society, and is on the Board of the UK Statistics Authority. He has published 300 scientific papers and 26 books. He has broad research interests in areas including classification, data mining, anomaly detection, and the foundations of statistics. His applications interests include psychology, physics, and the retail credit industry – he and his research group won the 2012 Credit Collections and Risk Award for Contributions to the Credit Industry. He was made OBE for services to research and innovation in 2013.
+
+
+WHAT PROJECTS HAVE YOU WORKED ON THAT YOU WISH YOU COULD GO BACK TO AND DO BETTER?
+
+I think I always have this feeling about most of the things I have worked on – that, had I been able to spend more time on it, I could have done better. Unfortunately, there are so many things crying out for one’s attention that one has to do the best one can in the time available. Quality of projects probably also has a diminishing returns aspect – spend another day/week/year on a project and you reduce the gap between its current quality and perfection by a half. Which means you never achieve perfection.
+
+WHAT ADVICE DO YOU HAVE TO YOUNGER ANALYTICS PROFESSIONALS AND IN PARTICULAR PHD STUDENTS IN THE SCIENCES?
+
+I generally advise PhD students to find a project which interests them, which is solvable or on which significant headway can be made in the time they have available, and which other people (but not too many) care about. That last point means that others will be interested in the results you get, while the qualification means that there are not also thousands of others working on the problem (because that would mean you would probably be pipped to the post).
+
+WHAT DO YOU WISH YOU KNEW EARLIER ABOUT BEING A STATISTICIAN? WHAT DO YOU THINK INDUSTRIAL DATA SCIENTISTS HAVE TO LEARN FROM THIS?
+
+I think it is important that people recognise that statistics is not a branch of mathematics. Certainly statistics is a mathematical discipline, but so are engineering, physics, and surveying, and we don’t regard them as parts of mathematics. To be a competent professional statistician one needs to understand the mathematics underlying the tools, but one also needs to understand something about the area in which one is applying those tools. And then there are other aspects: it may be necessary, for example, to use a suboptimal method if this means that others can understand and buy in to what you have done. Industrial data scientists need to recognise the fundamental aim of a data scientist is to solve a problem, and to do this one should adopt the best approach for the job, be it a significance test, a likelihood function, or a Bayesian analysis. Data scientists must be pragmatic, not dogmatic. But I’m sure that most practicing data scientists do recognise this.
+
+The fundamental aim of a data scientist is to solve a problem. #datascience CLICK TO TWEET
+HOW DO YOU RESPOND WHEN YOU HEAR THE PHRASE ‘BIG DATA’?
+
+Probably a resigned sigh. ‘Big data’ is proclaimed as the answer to humanity’s problems. However, while it’s true that large data sets, a consequence of modern data capture technologies, do hold great promise for interesting and valuable advances, we should not fail to recognise that they also come with considerable technical challenges. The easiest of these lie in the data manipulation aspects of data science (the searching, sorting, and matching of large sets) while the toughest lie in the essentially statistical inferential aspects. The notion that one nowadays has ‘all’ of the data for any particular context is seldom true or relevant. And big data come with the data quality challenges of small data along with new challenges of its own.
+
+WHAT IS THE MOST EXCITING THING ABOUT YOUR FIELD?
+
+Where to begin! The eminent statistician John Tukey once said ‘the great thing about statistics is that you get to play in everyone’s back yard’, meaning that statisticians can work in medicine, physics, government, economics, finance, education, and so on. The point is that data are evidence, and to extract meaning, information, and knowledge from data you need statistics. The world truly is the statistician’s oyster.
+
+DO YOU FEEL UNIVERSITIES WILL HAVE TO ADAPT TO ‘DATA SCIENCE’? WHAT DO YOU THINK WILL HAVE TO BE DONE IN SAY MATHEMATICAL EDUCATION TO KEEP UP WITH THESE TRENDS?
+
+Yes, and you can see that this is happening, with many universities establishing data science courses. Data science is mostly statistics, but with a leavening of relevant parts of computer science – some knowledge of databases, search algorithms, matching methods, parallel processing, and so on.
+
+Shane is the Co-Founder of KillBiller, a company that helps mobile operators to gain new customers. They provide a mobile phone plan comparison service in Ireland that allows people to use their own call, text, and data usage information to find the best value mobile tariff for their individual needs. In this position, he’s finding his way as a tech-startup founder, learning the actual ropes of creating a profitable business, and stretching his tech muscles on a complex and scaleable python backend on the Amazon cloud.
+
+
+WHAT PROJECTS HAVE YOU WORKED ON THAT YOU WISH YOU COULD GO BACK TO AND DO BETTER?
+
+Maybe every one?! I think that data science projects always have a bit of unfinished business. Its a key part of the trade to be able to identify when enough is enough, and when extra time would actually lead to tangible results. Is 4 hours tuning a model worth an extra 0.01 % in accuracy? Maybe in some cases, but not most. Unfortunately, I think that a huge amount of real data science business cases leave you with a little “ooh i could have tried…” or “oh we might have optimised…”.
+
+WHAT ADVICE DO YOU HAVE TO YOUNGER ANALYTICS PROFESSIONALS AND IN PARTICULAR PHD STUDENTS IN THE SCIENCES?
+
+“The more I learn, the more I realise how much I don’t know.” There seems to be a never ending list of new technologies and new techniques to get your head around. I would say to budding professionals that if you can get a solid understanding of basic key techniques in your repertoire to start with, you’ll do better than learning buzz words about the latest trends. While the headline-grabbing bleeding edge research will always seem to sparkle, the reality of data science in business is that people are still using proven techniques that work reliably and simply – think regression and k-means over deep-learning and natural language processing. Get the basics right first.
+
+WHAT DO YOU WISH YOU KNEW EARLIER ABOUT BEING A DATA SCIENTIST?
+
+Data preparation. I know you see it written down, but there is no exaggeration at all in the phrase – you’ll spend 80% of your time preparing the data. I’m sure everyone says it, and should know it, but its a key part of the work, and a very important step in the information discovery process.
+
+'you’ll spend 80% of your time preparing the data' - @shane_a_lynn CLICK TO TWEET
+HOW DO YOU RESPOND WHEN YOU HEAR THE PHRASE ‘BIG DATA’?
+
+That depends on where it comes from. At a business conference from a sales man – sometimes with rolling eye. At a tech meetup in Dublin – maybe with some interest. I think that Big Data has been hyped to death, and the reality is that, for now, there’s very few companies that actually require a large scale Hadoop deployment. I’ve worked with some of the largest companies on data science projects, and to date, have been able to process the data required on a single machine. However, I’m aware that that is an Irish specific viewpoint, where naturally our population and market size reduces the volume of data in many fields. However, I do think that Big Data is ultimately a function of the IT department, data scientists will simple lever the tools to extract meaningful excerpts or subsets for analysis.
+
+WHAT IS THE MOST EXCITING THING ABOUT YOUR FIELD?
+
+Its ever changing, ever growing, and moving quickly. While its daunting sometimes to think of the speed of progress, its also extremely exciting to be involved in a world where new ideas, tools, and techniques are being spread on a weekly basis. There’s a huge amount of enthusiasm out there in the community and a plethora of new opportunities to be explored.
+
+HOW DO YOU GO ABOUT FRAMING A DATA PROBLEM – IN PARTICULAR, HOW DO YOU AVOID SPENDING TOO LONG, HOW DO YOU MANAGE EXPECTATIONS ETC. HOW DO YOU KNOW WHAT IS GOOD ENOUGH?
+
+I tend to start to tackle each problem after I’ve had a good look at the data behind it. Perhaps an extract, perhaps a MVP type model, but just enough to grasp the state of the data, the amount of cleansing required, and to identify potential problems and benefits. Its extremely difficult to accurately estimate the outcome of a data science problem before you start working – so a few hours of exploration are very worthwhile. Time spent is usually limited naturally by time and budget, and you can relatively quickly get to a point where negligible gains are being made for additional time investment.
+
+YOU SPENT SOMETIME AS A CONSULTANT IN DATA ANALYTICS. HOW DID YOU MANAGE CULTURAL CHALLENGES, DEALING WITH STAKEHOLDERS AND EXECUTIVES? WHAT ADVICE DO YOU HAVE FOR NEW STARTERS ABOUT THIS?
+
+There’s a political landscape in every company that you’ll join. Take the time to learn the ropes and learn how your company deals with these items. I find that frequent and realistic updates on progress and expectations are key to managing the various parties. Don’t hide the dirty bits or the issues. And probably budget three times the time that you initially think for each task – there’s always hidden issues!
+
+YOU HAVE A COOL STARTUP CAN YOU COMMENT ON HOW IMPORTANT IT IS AS A CEO TO MAKE A COMPANY SUCH AS THAT DATA-DRIVEN OR DATA-INFORMED?
+
+I’m working on KillBiller, an Irish startup that makes difficult decisions easy. KillBiller automatically audits your mobile phone usage and works out exactly what you would spend on every mobile network and tariff. We’ve saved almost 20,000 people money on their phone bills!
+
+In our case, we’re all about data – processing peoples mobile usage, doing it securely, accurately, quickly, and presenting the results in a meaningful way. In addition, a data-driven approach to the startup world has its advantages – having a solid understanding of your marketing effectiveness, website traffic, user retention, and route to revenue allows us to make decisions backed on science over intuition.
+
+1. WHAT PROJECT HAVE YOU WORKED ON DO YOU WISH YOU COULD GO BACK TO, AND DO BETTER?
+
+For sure, it was my projects during 2012 when I first started to enter Kaggle competitions. The two in particular I wish I could redo were the Twitter Psychopaths challenge and the US Census Return Rate challenge. In both challenges I made some serious high-level errors (but that’s the point of these challenges, to discover mistakes before they happen when it really matters!) I’ve detailed my mistake in the US Census challenge in my latest PyData presentation “Mistakes I’ve Made”, . Basically I ignored population variance and replaced it with machine learning egotism. Oh, I also remembered another project I would really love to go back to. In 2011, when I was doing research into stochastic processes, I started my first Python library (if you could even call it that) called PyProcess. You can still see it here. Notice that it is, embarrassingly, one large file filled with Python classes. The first iteration didn’t even use Numpy! I would love to go back and redo the entire thing, but two things hold me back: 1) It was a lot of work to test each stochastic process and make sure they were doing the right, and 2) I’m to far out of the field now.
+
+2. WHAT ADVICE DO YOU HAVE TO YOUNGER ANALYTICS PROFESSIONALS AND IN PARTICULAR PHD STUDENTS IN THE SCIENCES?
+
+If you’re not already learning and using Python or Scala, do that. Similarly, if you’re not already learning some software engineering, do that. What are some examples of data science software engineering? – writing (close to) professional level code – thinking proper abstractions, writing testable pieces, thinking about reusability. – having code reviewed, and reviewing code yourself – writing tests Why do I emphasize programming and software development so much? At a high level, data science is about using computers to do statistics for you. If you can’t properly use the former, then your most important tool in your toolbox is missing.
+
+3. WHAT DO YOU WISH YOU KNEW EARLIER ABOUT BEING A DATA SCIENTIST?
+
+I wish I, and the rest of the field, knew about data cleaning. This is an important part of the whole data story and is glossed over. Specifically, the ETL pipeline (extract-transform-load). What I use to do is use SQL for the T part, but this caused too many problems (untestable, unmaintainable, unscalable). Now that is done prior to me even using the data for anything remotely complicated. This saves me time later, and allows the entire team to scale and benefit from my work (yes, I am still writing ETLs – I expect all my team members to, too). The problem is, you can’t really teach ETLs until you have the data problem. Small companies (I mean really small companies) and tutorials online can assume data is fine. Not until one is submerged in changing data does the ETL process start to make sense. So, though I wish I knew this earlier, I probably couldn’t have learned anyways!
+
+4. HOW DO YOU RESPOND WHEN YOU HEAR THE PHRASE ‘BIG DATA’?
+
+Sure, “Big Data” is a buzzword, but I think the issue with the name “Big data” comes down to two camps: are you seeing “Big data” as a solution (probably wrong) or as a problem (probably right). For example, two common questions an organization might have are 1) find the number of unique visitors to our site in the part month, and 2) find me the median of this dataset. If you data is simply too big for memory, which is a good definition of big data, then we can’t solve either of these problems naively. What is really interesting about big data as a problem is the abundance of cool new algorithms and data structures being invented to solve these problems. For example, HyperLogLog estimates the number of unique values in a set of data too big for memory. And TDigest estimates the percentiles of data too big for memory (and hence can’t be sorted).
+
+5. WHAT IS THE MOST EXCITING THING ABOUT YOUR FIELD?
+
+I’ve already mentioned the interesting new algorithms for big data problems, so I won’t go over them again, but I do think they are very exciting. Another exciting thing the new problems being discovered, and the solutions being used. For example, the recommendation problem of what to recommend visitors to a site is a new problem that has massive impact, and is being solved by data. I can’t imagine Fisher or Pearson ever asking the question “what should I recommend next to this user?”. In a similar vein, we *are* seeing the reemergence of classical statistics again. Classical techniques like survival analysis, clinical trials, and logistic regression are seeing a major comeback because new problems have been identified.
+
+6. HOW DO YOU GO ABOUT FRAMING A DATA PROBLEM?
+
+Honestly, I try to turn it into a binomial problem. I use the beta-binomial model as a large crutch far too often, but it’s a really good initial model of a problem. If I can turn the problem into a binomial problem, then I have lots of tools I can work with: Bayesian analysis, sample-size appropriate ranking techniques, Bayesian Bandits, etc. If I can’t turn it into a binomial problem, I go through the rest of my toolbox: survival analysis, lifetime value, Bayesian modeling, classification, association analysis, etc. If I still can’t find an appropriate solution, then I have to expand my scope (and often learn a new tool while doing that).
+
+“MY ROLE IS OFTEN MORE ABOUT MANAGING RELATIONSHIPS” – INTERVIEW WITH DATA SCIENTIST IAN HUSTON
+
+Ian started out as a theoretical physicist, moved into data science a few years ago and is now part of the data science team at Pivotal Labs, the agile software consulting arm of Pivotal. Ian has worked on a variety of customer engagements at Pivotal including catastrophe risk modelling, fashion & consumer analytics, factory production quality and online marketing. Ian has been building analytical and numerical models for about 10 years and started out building high performance computing models of the earliest moments of the universe after the Big Bang.
+
+
+1. WHAT PROJECT HAVE YOU WORKED ON DO YOU WISH YOU COULD GO BACK TO, AND DO BETTER?
+
+First of all, thanks for the opportunity to be part of this interview series! I think if you are continually learning you always look back on past work with a view to what could have been done better. Having said that I don’t think there is one particular commercial project that I would pick out to redo, but maybe I don’t have enough perspective yet. I imagine most people who have done a PhD would probably like to redo some of the technical parts but were just relieved to get it finished at the time.
+
+2. WHAT ADVICE DO YOU HAVE TO YOUNGER ANALYTICS PROFESSIONALS AND IN PARTICULAR PHD STUDENTS IN THE SCIENCES?
+
+When you are doing a PhD you have a very narrow focus and it can be hard to see where your skills and experience might be valuable outside academia. I would recommend trying to get a bit of an outside perspective, go to industry meetups and any ‘post-academia’ workshops that are available in your university.
+
+It’s helpful to try to understand what someone hiring in industry is looking out for. For me, someone leaving academia doesn’t need to have full technical ability in the new area (e.g. machine learning) but should have made an effort to start down that learning path, and they should make it easy for me to see that. I’ve seen people leaving academia just submit the same academic CV to an industry data science role as they would use for a postdoc physics research position. I would suggest asking someone in the field you want to enter to critique your CV to avoid this kind of mistake.
+
+3. WHAT DO YOU WISH YOU KNEW EARLIER ABOUT BEING A DATA SCIENTIST?
+
+I don’t think you can overstate how much of data science is really about working with people of all different technical levels and backgrounds. Coming from a theoretical physics background, which can be quite a solitary environment, I knew that data science and especially consulting would be very different. Every day I am reminded that my role is often more about managing relationships and understanding people’s needs than just writing code.
+
+4. HOW DO YOU RESPOND WHEN YOU HEAR THE PHRASE ‘BIG DATA’?
+
+I still cringe a little, but I understand that it is a useful short-hand for a change in behaviour and scale that some parts of the tech industry are still not ready for. I like the more recent categorisation into small-, medium- and big-data as I think many companies really have medium data problems, where processing on a laptop in-memory is not feasible, but they don’t yet need a 10,000 core cluster. There is clearly a lot you can do before you start operating at the very largest scales of places like Facebook or Google. When you do start reaching those scales however, the problems are very different and the ‘big data’ technologies like Hadoop and massively parallel processing databases really come in to their own.
+
+5. WHAT IS THE MOST EXCITING THING ABOUT YOUR FIELD?
+
+For me the most exciting thing is that we haven’t figured out all the ways predictive analytics and data science can help solve business problems. There are some well worn paths now, but each day new applications of machine learning and predictive algorithms are discovered, and new areas of industry become interested.
+
+6. HOW DO YOU GO ABOUT FRAMING A DATA PROBLEM – IN PARTICULAR, HOW DO YOU AVOID SPENDING TOO LONG, HOW DO YOU MANAGE EXPECTATIONS ETC. HOW DO YOU KNOW WHAT IS GOOD ENOUGH?
+
+At Pivotal Labs I have learned a lot from our software development team about how to iterate quickly to minimise the risk in a project. For me, open and clear communication is the key to managing expectations and making sure that the project is providing value. If you can show some value very quickly and then build on that iteratively, you can have a continual dialogue about progress and expectations will not easily get out of sync.
+
+A lot of people in this field have a perfectionist streak, so knowing when to stop and what ‘good enough’ looks like is an important skill. Does the time and effort needed to eke out that next 1% in accuracy really provide enough value or is the current performance just as good given the way the model will be applied?
+
+7. YOU SPENT SOMETIME AS A CONSULTANT IN DATA ANALYTICS. HOW DID YOU MANAGE CULTURAL CHALLENGES, DEALING WITH STAKEHOLDERS AND EXECUTIVES? WHAT ADVICE DO YOU HAVE FOR NEW STARTERS ABOUT THIS?
+
+Cultural challenges can be difficult, and even the differences between European and American attitudes to data protection can lead to internal problems in an organisation. As a data scientist, you often get into the ‘ugly baby’ scenario, where you have to explain to a leadership team or organisation that their carefully collected data is not quite as nice as they thought, or that their idea to run their niche business based on real time Twitter feedback is not going to be possible with the signal-to-noise ratio that is present. I think empathy is a very important trait and the way we hire people tries to select for this. If you can see the situation from the other person’s viewpoint it helps enormously when trying to resolve difficult situations.
+
+8. HOW DO YOU EXPLAIN TO C-LEVEL EXECS THE IMPORTANCE OF DATA SCIENCE? HOW DO YOU DEAL WITH THE ‘EDUCATED SELLING’ PARTS OF THE JOB?
+
+Some C-level execs really understand the value that data science can bring. The US has had a bit of a head start in this, and with successful projects under their belts they are ready to use data science more widely in their organisations. In Europe we are still in that learning phase I think, so making a success of that first project is important. Showing value early and often during a project can really help to drive understanding and appreciation of the possibilities that data science can provide.
+
+A lot of people have now heard of data science and machine learning, and there are success stories in the mainstream and industry press. A few years ago this wasn’t the case and you had to spend a long time explaining at a relatively basic level how data science could be useful. You still have to do some of that, but it’s a bit easier and you can point to main-stream examples which helps a lot. As a lay-person it’s still very difficult to understand why one type of analysis is easy and another is very difficult. Randall Monroe captured this well in XKCD 1425 (http://xkcd.com/1425/) but with the progress in computer vision recently, even this example is nearly out of date!
+
+I really enjoy the interview series so thank you for the opportunity to take part!
+
+Jon is a consulting data scientist, trained in physics and machine learning, with 10 years professional background in data analysis and management consulting. He co-manages a niche data science consultancy called Applied AI, operating primarily in the insurance sector throughout UK, Ireland and Europe. He’s also an organiser and volunteer within data-for-good social movements, and occasional speaker at tech and industry events.
+
+
+1. WHAT PROJECT HAVE YOU WORKED ON DO YOU WISH YOU COULD GO BACK TO, AND DO BETTER?
+
+I won’t name names, but throughout my career I’ve encountered projects – and indeed full-time jobs – where major issues have popped up not due to technologies or analysis, but due to ineffective communication, either institutional or interpersonal. Just to pick an example, one particular job was an analyst’s nightmare due to overbearing senior management and too-rapid engineering – the task was to produce KPIs of the company’s health, but the entire software and hardware stack changed so frequently that getting even the most basic information out was extremely hard work. That could have been fixed by stronger communication and pushback on my part – but my opinions weren’t accepted and it wasn’t to be. Another large project (of which I was only a very minor part) was scuppered to due mishandled client expectations and caused no end of overwork for the consulting team. Every project needs better communication, always.
+
+2. WHAT ADVICE DO YOU HAVE TO YOUNGER ANALYTICS PROFESSIONALS AND IN PARTICULAR PHD STUDENTS IN THE SCIENCES?
+
+I’ll deal with these separately, since there are (or should be) different reasons why people are in each group.
+
+To PhD candidates here I simply hope that they truly love their subject and are careful to gain commercially-useful skills along the way. I’ve friends who have completed PhDs, some who’ve quit midway, and some like me who considered it but instead returned to industry after an MSc. You might not plan to go into industry, but gaining the following skills is vital for academia too:
+
+Reproducible research (version control, data management, robust / testable / actually maintainable code).
+Lightweight programming (learn Python, it’s easy, able to do most things, always available, the packages are very well maintained and the community is very strong).
+Statistics (Bayesian, frequentist, whatever – make sure you have a really solid grasp of the fundamentals).
+Finally ensure you have proven capability in high-quality communication – and a dead-tree LaTeX publication doesn’t count. Get yourself blogging, answering questions on Stack Overflow, presenting at meetups and conferences, working with others, consulting in industry etc. As you improve upon this you’ll really distinguish yourself from the herd.
+Also some flamebait: Whilst I love the idea of improving humanity’s body of knowledge in the hard sciences, I’m not convinced that a PhD in the soft sciences is worthwhile nowadays, at least not straight out of school. If you want to research the humanities just take your degree and go work for a giant search engine / social network / online retailer; you’ll get real-world issues and massive study sizes from day one.
+
+To the younger analytics professionals, regardless the company or industry in which you find yourself, build up your skills as per the PhD advice above, polish your external profile (blogs, talks, research papers etc) and don’t ever be afraid to jump ship and try a few things out. Try to have 3 month’s pay in your savings account, maintain your friendships local and international, and set up a basic vehicle for you to do independent contracting / consulting work.
+
+Over the years I’ve tried a lot of different jobs in a few different locations. I felt happiest once I’d set up my own company and knew that I would always have a method to market my skills independent of anyone else. Data science skills are likely to be important for a good few years yet, so if you’re well-connected, well-respected and mobile, you can try a lot of things, find what you love, and will never be out of work for long.
+
+3. WHAT DO YOU WISH YOU KNEW EARLIER ABOUT BEING A DATA SCIENTIST?
+
+Lots to unpack in that question! If I can call myself a scientist at all, then it’s an empiricist rather than theoretician. As such I consider data the be the record of things that happen(ed) and science as the formalisation & generalisation of our understanding of those things. ‘Data scientist’ is thus a useful shorthand term for someone who specialises in learning from data, communicating insights and taking/recommending reasoned actions accordingly.
+
+With that in mind, I’d advise my younger self to never forget that it’s that final step that matters most – allowing decision makers to take reasoned actions according to your well-communicated insights. That decision maker may be your client, your boss or even simply yourself, but without an effective application ‘data science’ is actually research & development – and chances are you’re not being paid to do R&D.
+
+4. HOW DO YOU RESPOND WHEN YOU HEAR THE PHRASE ‘BIG DATA’?
+
+I think we’re far enough along the hype cycle now that nearly all data science practitioners recognise both the possibilities and the constraints of performing large-scale analyses. Proper problem-definition and product-market fit are the most important to get right, and hopefully even your typical non-technical business leader is no longer bedazzled by the term and instead wants to see actionable insights that don’t require a major engineering project.
+
+That said, I’m still happy to see experts in the field continue to preach that whilst gathering reams of ‘big’ data (which I take here to be primarily commercially-related data including interface interactions, system log files, audio, images, video feeds, positional info, live market movements etc.) can lead to something immensely powerful, it can easily become a giant waste of everyone’s time and resources.
+
+Truly understanding the behaviour of a system/process, and properly cleaning, reducing and sub-sampling datasets are practices long-understood by the statistics community. A reasoned hypothesis tested with ‘small-medium’ data on a modest desktop machine beats blind number crunching any day.
+
+5. WHAT IS THE MOST EXCITING THING ABOUT YOUR FIELD?
+
+Well, the tools for applying the analysis techniques, and the techniques themselves are certainly moving at a hell of a pace, but science & technology always does. I really enjoy having the opportunity to research and apply novel techniques to client problems.
+
+More widely I’m excited to see the principles of gathering, maintaining and learning from data permeate all aspects of businesses and organizations. There’s well-developed data science platforms popping up every day, new software packages to use, heavily over-subscribed meetup groups and conferences everywhere, and it’s great to see the formalisation and commoditization of certain technical aspects. Just as it’s unlikely that anyone would try today to run an enterprise without a website, a telephone or even an accountant, I expect that a data science capability will be at the core of most businesses in future.
+
+6. HOW DO YOU GO ABOUT FRAMING A DATA PROBLEM – IN PARTICULAR, HOW DO YOU AVOID SPENDING TOO LONG, HOW DO YOU MANAGE EXPECTATIONS ETC. HOW DO YOU KNOW WHAT IS GOOD ENOUGH?
+
+I assume you mean an analytical problem rather than a data management problem or something else.
+
+I think it’s quite simple really, and just common sense to ensure that you define well the analytical problem, and the inputs and outputs of your work. What question are we trying to answer? How should the answer be presented and how will it be used? What analysis and what data will let us provide insights based on that question? What data do we have and what analysis is possible / acceptable within our organisational and technical constraints? Then prototype, develop, communicate and iterate until baked.
+
+7. DO YOU FEEL ‘DATA SCIENCE’ IS A THING – OR DO YOU FEEL IT IS JUST SOME ENGINEERING FUNCTIONS REBRANDED? DO YOU THINK WE COULD DO MORE OF THE HYPOTHESIS DRIVEN SCIENTIFIC ENQUIRY?
+
+As above, I think that in future the practice of gathering, maintaining and learning from data will be core to nearly all commercial and social enterprises. Bringing academic research to bear on real-world problems is just too useful, and those who rely on gut instinct or trivial analyses will be out-competed.
+
+That said, I think we’re already seeing a definite split between data science (statistics, experimentation, prediction), data processing (large-scale systems development), and data engineering (acquiring, maintaining and making available high-quality data sources), and no doubt in future there will be more spin-out skills that take on a life of their own. The veritable zoo of job titles spawned from web development is a good example: UI designers, UX designers, javascript engineers, mobile app engineers, hosting and replication engineers etc etc.
+
+Finally I’d just like to thank you for putting this series of interviews / blogposts together, it’s a really interesting resource, particularly as the data science industry is maturing.
+
+Jeroen is a Senior Data Scientist with a consultancy in the Netherlands called TriFinance and he will soon be joining the Booking.com team as a Data Scientist. He remarks on his analytics consultancy experience here which was formed both at IBM and TriFinance.
+
+
+1. WHAT PROJECT HAVE YOU WORKED ON DO YOU WISH YOU COULD GO BACK TO, AND DO BETTER?
+
+Most of them. The downside of analytics consultancy is that often you’re not able to continue on a promising project. Fact is, the challenge of introducing data science to an organisation is often not a technical one, and it takes more time to take people along than it does to do the analysis. With a little patience, sometimes you get to continue and fulfil the promise.
+
+2. WHAT ADVICE DO YOU HAVE TO YOUNGER ANALYTICS PROFESSIONALS AND IN PARTICULAR PHD STUDENTS IN THE SCIENCES?
+
+For analytics professionals, I’d say: get as much real-world experience as possible. A lot of the competitions provide nicely prepared datasets, predefined challenges and in particular very little restrictions on how your work should be usable by others. That makes them quite a different experience from doing data science inside an organisation, where you have to work with people to get clarity on the question, spend lots of time trying to understand and clean up the data you got, and you have to either make your work easy to interpret by people outside your team, or your work has to technically fit inside the client’s infrastructure.
+
+If you don’t currently have a chance to work with clients, you can build experience by doing data volunteer work, such as with the many Data for Good groups.
+
+As for the PhD students, I can only say: use this time to learn as much as you can about research methodology. No matter whether you stay in academics or move to the corporate world, it will help tremendously in approaching problems with an analytical mind.
+
+3. WHAT DO YOU WISH YOU KNEW EARLIER ABOUT BEING A DATA SCIENTIST?
+
+That I like to be one, or that this job exists. While my academic background is quite relevant to my current work, it took a few years in ‘regular’ IT work before I ended up in analytics.
+
+4. HOW DO YOU RESPOND WHEN YOU HEAR THE PHRASE ‘BIG DATA’?
+
+Smile and nod. No matter how you feel about the phrase – and the seeming disconnect between it’s ‘official’ meaning and the way it’s being used – it has done a great deal to make organisations think about how they can use their data to make smart decisions, and that makes it a lot easier to get on the agenda and build enthusiasm. So, just keep smiling.
+
+5. HOW DO YOU GO ABOUT FRAMING A DATA PROBLEM – IN PARTICULAR, HOW DO YOU AVOID SPENDING TOO LONG, HOW DO YOU MANAGE EXPECTATIONS ETC. HOW DO YOU KNOW WHAT IS GOOD ENOUGH?
+
+Educate, and focus on the ROI. To many people, it’s not quite clear what a data science project entails (‘but, what do you…. do?’) so it’s very important to make it a collaboration, make transparent what is needed to make it work (data cleaning, anyone?) and connect it to the end goal. The goal, or the Return on Investment (ROI) is also what defines whether your work is good enough. Are you going to get enough out of the next analysis, to warrant starting it? Don’t just focus on ‘insight’, focus on what you can do with it.
+
+6. WHAT ARE THE DIFFERENCES BETWEEN SOFTWARE DEVELOPMENT, BI AND DATA SCIENCE FOR YOU?
+
+Three fields that are more related than some are willing to admit. I’m not so adamant on distinguishing Data Science from BI, both are trying to see the world through data, with perhaps Data Science being more free-form and using more advanced tools, while BI is focused more on repeatability and making analysis available to end users.
+
+7. HOW DO YOU EXPLAIN THE IMPORTANCE OF ANALYTICS TO SKEPTICAL MANAGEMENT?
+
+Again, focus on the goals. What can you do that is important to them, what issues can you help solve that they worry about, what benefit can you bring that is valuable to them.
+
+8. WHAT IS THE MOST EXCITING THING ABOUT YOUR FIELD?
+
+Let me name two things. First of all, it’s a field in which you work with all kinds of people, and get a much broader view than if you would only focus on data or IT.
+
+Second of all, the field is developing at an amazing pace. The teams are getting more professional, the tools more powerful and effective, and we’re learning more and more about building data-driven organisations. That’s super-exciting to be a part of.
+
+I recently interviewed Hadley Wickham the creator of Ggplot2 and a famous R Stats person. He works for RStudio and his job is to work on Open Source software aimed at Data Geeks. Hadley is famous for his contributions to Data Science tooling and inspires a lot of other languages! I include some light edits.
+
+
+
+WHAT PROJECT HAVE YOU WORKED ON DO YOU WISH YOU COULD GO BACK TO, AND DO BETTER?
+
+ggplot2! ggplot2 is such a heavily used package, and I knew so little about R programming when I wrote it. It works (mostly) and I love it, but the internals are pretty hairy. Even I don’t understand how a lot of works these days. Fortunately, I’ve had the opportunity to spend some more time on it lately, as I’ve been working on the 2nd edition of the ggplot2 book.
+
+One thing that I’m particularly excited about is adding an official extension mechanism, so that others can extend ggplot2 by creating their own geoms, stats etc. Some people have figured out how to do that already, but it’s not documented and the current system causes hassles with CRAN. Winston and I have been working on this fairly heavily for the last couple of weeks, and it’s also been good for us. Thinking about what other people will need to do to write a new geom has forced us to think carefully about how geoms should work, and has resulted in a lot of internal tidying up. That makes life more pleasant for us!
+
+WHAT ADVICE DO YOU HAVE TO YOUNGER ANALYTICS PROFESSIONALS AND IN PARTICULAR PHD STUDENTS IN THE SCIENCES?
+
+My general advice is that’s better to be really good at one thing rather than pretty good at a few things. For example, I think you’re better off spending your time mastering either R or python, rather than developing a middling understanding of both. In the short term, that will cost you some time (because there are something that are much easier to do in R than in python and vice versa), but in the long term you end up with a more powerful toolset that few others can match.
+
+That said, you also need to have some surface knowledge of many other areas. You need to accept that there are many subjects that you could master if you put the time into them, but you don’t have the time. For example, if you’re interestied in data, I think it’s really important that you have a working knowledge SQL. If you have any interest in working in industry, the chances are that your data will live in a database that speaks SQL, and if you don’t know the basics you won’t be useful.
+
+Similarly, if you work a lot with text, you should learn regular expressions; and if you work with html or xml, you should learn xpath.
+
+WHAT DO YOU WISH YOU KNEW EARLIER ABOUT BEING A DATA SCIENTIST?
+
+To be honest, I’m not sure that I am a data scientist. I spend most of my time making tools for data scientists to use, rather than actually doing data science myself.
+
+Obviously I do some data analysis, but its mostly exploratory and for fun. I do worry that I am out of the loop when it comes to users needs in Data Science.
+
+HOW DO YOU GO ABOUT FRAMING A DATA PROBLEM – IN PARTICULAR, HOW DO YOU AVOID SPENDING TOO LONG, HOW DO YOU MANAGE EXPECTATIONS ETC. HOW DO YOU KNOW WHAT IS GOOD ENOUGH?
+
+Again, I’m not sure that I’m a particularly skilled data analyst, but I do do a little. Mostly it’s on personal data, or data about R or RStudio that’s of interest to me. I’m also on the look out for interesting datasets to use for teaching and in documentation and books (which is one of the reasons I make data packages.)
+
+A couple of interesting datasets that I’ve been playing around with lately are on liquor sales in Iowa and parking violations in Philadelphia These datasets are particularly interesting to be because they’re almost 1 GB. I want to make sure that my tools scale to handle this volume of data on a commodity laptop.
+
+Mostly I’m done with them once I get bored, which makes me a poor role model for practicing data scientists!
+
+HOW DO YOU RESPOND WHEN YOU HEAR THE PHRASE ‘BIG DATA’?
+
+Big data is extremely overhyped and not terribly well defined. Many people think they have big data, when they actually don’t.
+
+I think there are two particularly important transition points:
+
+* From in-memory to disk. If your data fits in memory, it’s small data. And these days you can get 1 TB of ram, so even small data is big! Moving from in-memory to on-disk is an important transition because access speeds are so different. You can do quite naive computations on in-memory data and it’ll be fast enough. You need to plan (and index) much more with on-disk data
+
+* From one computer to many computers. The next important threshold occurs when you data no longer fits on one disk on one computer. Moving to a distributed environment makes computation much more challenging because you don’t have all the data needed for a computation in one place. Designing distributed algorithms is much harder, and you’re fundamentally limited by the way the data is split up between computers.
+
+I personally believe it’s impossible for one system to span from in-memory to on-disk to distributed. R is a fantastic environment for the rapid exploration of in-memory data, but there’s no elegant way to scale it to much larger datasets. Hadoop works well when you have thousands of computers, but is incredible slow on just one machine. Fortunately, I don’t think one system needs to solve all big data problems.
+
+To me there are three main classes of problem:
+
+1. Big data problems that are actually small data problems, once you have the right subset/sample/summary. Inventing numbers on the spot, I’d say 90% of big data problems fall into this category. To solve this problem you need a distributed database (like hive, impala, teradata etc), and a tool like dplyr to let you rapidly iterate to the right small dataset (which still might be gigabytes in size).
+
+2. Big data problems that are actually lots and lots of small data problems, e.g. you need to fit one model per individual for thousands of individuals. I’d say ~9% of big data problems fall into this category. This sort of problem is known as a trivially parallelisable problem and you need some way to distribute computation over multiple machines. The foreach package is a nice solution to this problem because it abstracts away the backend, allowing you to focus on the computation, not the details of distributing it.
+
+3. Finally, there are irretrievably big problems where you do need all the data, perhaps because you fitting a complex model. An example of this type of problem is recommender systems which really do benefit from lots of data because they need to recognise interactions that occur only rarely. These problems tend to be solved by dedicated systems specifically designed to solve a particular problem.
+
+
+Matt Hall has a PhD in sedimentology from the University of Manchester, UK, and 15 years’ experience in the hydrocarbon industry. He has worked for Landmark as a volume interpretation specialist, Statoil as an explorationist, and ConocoPhillips as a geophysical advisor. Matt has a broad range of interests, from signal processing to facies analysis, and from uncertainty modelling to knowledge sharing. Personally as someone with a Physics degree, I think it is really important we in the data science community learn a lot from the scientific modelling community. There is a lot of shared knowledge out there and one reason I am attending EuroSciPy in Cambridge this year.
+
+
+
+Now it is time for another interview with a Data Scientist. Today I decided to be a bit different and I interviewed a professional geophysicist, who runs a consultancy in Nova Scotia, Canada.
+
+1. WHAT PROJECT HAVE YOU WORKED ON DO YOU WISH YOU COULD GO BACK TO, AND DO BETTER?
+
+If it wasn’t for the fact that revisiting old projects would mean missing out on future ones, I would say ‘All of them’. I learn something new on almost everything I work on, and on the downtime in between. I occasionally do go back and re-do things with new tools or insights, and often projects come back around naturally, in one form or another, but I leave a lot untouched. I can’t even imagine, for example, what I could do with almost every aspect of my postgraduate research with what I have today.
+Oddly, and worryingly, the reverse is true too. Sometimes I wish I had the same facility with mathematics now as I did at the age of 20. There’s always stuff you forget — perhaps learned but did not actually need at the time, so you never applied it. I guess this means that learning is an x-steps-forward-y-steps-back situation. I just hope x > y.
+
+2. WHAT ADVICE DO YOU HAVE TO YOUNGER ANALYTICS PROFESSIONALS AND IN PARTICULAR PHD STUDENTS IN THE SCIENCES?
+
+At the risk of giving a rather tired answer, the number one things for anyone in science is: learn to program. While you’re doing that, learn a bit about the Linux shell (yes, this means dumping Windows as soon as possible) and version control. These are fundamental skills and it could not be easier to get started today. As for the language, pick Python or R, or maybe even JavaScript, or actually just anything.
+Here’s something I wrote for geoscientists about learning to program: http://www.agilegeoscience.com/blog/2011/9/28/learn-to-program.html
+
+3. WHAT DO YOU WISH YOU KNEW EARLIER ABOUT BEING A DATA SCIENTIST?
+
+I’m not a data scientist as such, but a scientist. Data science seems like a fun place to play with code and data, and I wish it had been a thing when I was finishing my education. I must say though, possibly horribly tangentially, that I sense the field of ‘data science’ seems in danger of moving so quickly that it trips over itself. ‘Data’ has to include an awareness of provenance, bias, and the statistics of sampling. ‘Science’ has to include rigorous testing, peer review, and reproducibility. And the analysis of data should build on the history of statistics, especially with respect to the handling of uncertainty. This isn’t to say ‘slow down’ or ‘respect your elders’, it’s more about not repeating the mistakes of the past with the scale and speed of today. I highly recommend joining the Royal Statistical Society, and reading every issue of Significance.
+
+4. HOW DO YOU RESPOND WHEN YOU HEAR THE PHRASE ‘BIG DATA’?
+
+I know some people freak out when they hear those words, but I don’t mind ‘big data’. It seems to communicate in shorthand something we all understand. Like any jargon, different people often mean different things, so one has to clarify. But it’s clearly taken off so it probably doesn’t matter what we think about it at this point.
+
+I work in applied geophysics. Lots of people in the field roll their eyes at ‘big data’, grumbling that “we’ve been doing that for years”. But they have missed the point entirely. Big data isn’t just lots of data, it implies something about all the other components of the analytics cycles too — storage, retrieval, and analysis.
+
+WHAT IS THE MOST EXCITING THING ABOUT YOUR FIELD?
+
+Geophysics is a fantastically hard big data problem. All interesting problems are inverse problems, and learning the geological history of the earth from some acoustic or electromagnetic data recorded at the surface is a very hard inverse problem. The earth is about as complex a system as you can get, so its equation (so to speak) has infinite variables, so any question you can ask is woefully underdetermined. As a bonus, geological hypotheses are incredibly hard to test on human timescales. And we never get to find out the actual answer by, say, visiting the Cretaceous.
+
+Here’s a vertical and a roughly horizontal slice through a dataset offshore Nova Scotia, where I live…
+
+
+In an attempt to get reasonable answers, we collect huge amounts of data using ships and drills and dynamite and other exciting things. All the data came from the same earth, but of course every channel has its own response, its own noise, and its own bias. Reducing 200 billion data samples to an image of the earth is a hard optimization problem, but it 60% of the time, it works every time.
+What gets me excited every day is that we’ve only scratched the surface of what we can learn about the earth from seismic data.
+
+6. HOW DO YOU GO ABOUT FRAMING A DATA PROBLEM – IN PARTICULAR, HOW DO YOU AVOID SPENDING TOO LONG, HOW DO YOU MANAGE EXPECTATIONS ETC. HOW DO YOU KNOW WHAT IS GOOD ENOUGH?
+
+I usually have a specific purpose to work towards, and often a time constraint as well. So you do what you can to deliver the required result (for me, this might be a set of maps, or a ranked list of locations) in the time available.
+
+Scoping projects is hard. The concept of a ‘project’ is somewhat at odds with how scientists work — with a lot of unknowns. It’s better to be more agile — do something easy quickly, then review and iterate. This isn’t always compatible with working to time and resource constraints, especially if you’re working with people with a strong ‘waterfall’ project mindset.
+
+You can’t beat meeting the client (there’s always a client — someone who needs your work) face to face. The more you can iterate on the plan, the better. And the more space you can leave for the stuff you don’t know yet, the better. There’s no point committing to something, then finding out that the available data. Have contingencies for everything. Report back continuously, not after a problem has started eating things for breakfast. Be open and transparent about everything. All common sense, but not easy to stick to once you get stuck in.
+
+
+Trent McConaghy has been doing AI and ML research since the mid 90s. He co-founded ascribe GmbH, which enables copyright protection via internet-scale ML and the blockchain. Before that, he co-founded Solido where he applied ML to circuit design; the majority of big semis now use Solido. Before that, he co-founded ADA also doing ML + circuits; it was acquired in 2004. Before that he did ML research at the Canadian Department of Defense. He has written two books and 50 papers+patents on ML. He co-organizes the Berlin ML meetup. He keynoted Data Science Day Berlin 2014, PyData Beriln 2015, and more. He holds a PhD in ML from KU Leuven, Belgium.
+
+
+At PyData in Berlin I chaired a panel – one of the guests was Trent McConaghy and so I reached out to him, to hear his views about analytics. I liked his views on shipping it, and the challenges he’s run into in his own world.
+
+WHAT PROJECT HAVE YOU WORKED ON DO YOU WISH YOU COULD GO BACK TO, AND DO BETTER?
+
+Before I answer this I must say: I strongly prefer looking forward. There’s so much to build!
+I’ve made many mistakes! One is having rose-colored glasses for criteria that ultimately mattered little. For example, for my first startup, I hired a professor who’d written 100+ papers, and textbooks. Sounds great, right? Well, he’d optimized his way of thinking for academia, but was not terribly effective on the novel ML problems in my startup. It was no fun for anyone. We had to let him go.
+
+WHAT ADVICE DO YOU HAVE TO YOUNGER ANALYTICS PROFESSIONALS AND IN PARTICULAR PHD STUDENTS IN THE SCIENCES?
+
+Do something that that you are passionate about, and that matters to the future. It starts with asking interesting scientific questions, and ends (ideally) with results that make a meaningful impact on the world’s knowledge.
+
+WHAT DO YOU WISH YOU KNEW EARLIER ABOUT BEING A DATA SCIENTIST?
+
+As an AI researcher and an engineer: one thing that I didn’t know, but served me well because I did it anyway, was voracious reading of the literature. IEEE Transactions for breakfast:) That foundation has served me well my whole career.
+
+HOW DO YOU RESPOND WHEN YOU HEAR THE PHRASE ‘BIG DATA’?
+
+Marketing alert!!
+
+That said: I like how unreasonably effective large amounts of data can be. And that it’s shifted some of focus away from algorithmic development on toy problems.
+
+WHAT IS THE MOST EXCITING THING ABOUT YOUR FIELD?
+
+AI as a field has been around since the 50s. Some of the original aims of AI are still the most exciting! Getting computers to do tasks in superhuman fashions is amazing. These days it’s routine in narrow settings. When the world hits AI that can perform at the cognitive levels of humans or beyond, it changes everything. Wow! It’s my hope to help shepherd those changes in a way that is not catastrophic for humanity.
+
+HOW DO YOU GO ABOUT FRAMING A DATA PROBLEM – IN PARTICULAR, HOW DO YOU AVOID SPENDING TOO LONG, HOW DO YOU MANAGE EXPECTATIONS ETC. HOW DO YOU KNOW WHAT IS GOOD ENOUGH?
+
+I follow steps, along the lines of the following.
+
+Write down goals, what question(s) I’m trying to answer. Give yourself a time limit.
+Get benchmark data, and measure(s) of quality. Draw mockups of graphs I might plot.
+Test against dumbest possible initial off-the-shelf algorithm and problem framing (including where I get the data)
+Is it good enough compared to the goals? Great, stop! (Yes, linear regression will solve some problems:)
+Try the next highest bang-for-the-buck algorithm & problem framing. Ideally, it’s off the shelf too. Benchmark / plot / etc. Repeat. Stop as soon as successful, or when time limit is hit.
+Ship!
+
+
+Andrew joined Etsy in 2014, and lives in London, making him their first data scientist who lives outside the USA. Prior to Etsy he spent almost 15 years designing machine learning workflows, and building search and analytics services, in academia, startups and enterprises, and in an ever-growing list of research areas including biomedical informatics, computational linguistics, social analytics, and educational gaming. He has a masters degree in bioinformatics and a PhD in natural language processing, can count to over 1000 on his fingers, but doesn’t know how to drive a car.
+
+
+As part of my regular ‘Interview with a Data Scientist’ feature, I recently interviewed Andrew Clegg. Andrew is a really interesting and pragmatic Data Science professional and currently he’s doing some cool stuff at Etsy. You can visit his blog here and his most recent talk on his work at Etsy from Berlin Buzzwords.
+
+WHAT PROJECT HAVE YOU WORKED ON DO YOU WISH YOU COULD GO BACK TO, AND DO BETTER?
+
+The one that most springs to mind was an analytics and visualization platform called Palomino that my team at Pearson built: a custom JS/HTML5 app on top of Elasticsearch, Hadoop and HBase, plus a bunch of other pipeline components, some open source and some in-house. It kind of worked, and we learnt a lot, but it was buggy, flaky at the scale we tried to push it to, and reliant on constant supervision. And it’s no longer in use, mostly for those reasons.
+
+It was pretty ambitious to begin with, but I got dazzled by shiny new toys and the lure of realtime intelligence, and brought in too many new bits of tech that there was no organisational support for. We discovered that distributed data stores and message queues are never as robust as they claim (c.f. Jepsen); that most people don’t really need realtime interactive analytics; and that supporting complex clustered applications (even internal ones) is really hard, especially in an organisation that doesn’t really have a devops culture.
+
+These days, I’d try very hard to find a solution using existing tools — Kibana for example looks much more mature and powerful than it did when we started out, and has a whole community and coherent ecosystem around it. And I’d definitely shoot for a much simpler architecture with fewer moving parts and unfamiliar components. Dan McKinley’s article Choose Boring Technology is very relevant here.
+
+WHAT ADVICE DO YOU HAVE TO YOUNGER ANALYTICS PROFESSIONALS AND IN PARTICULAR PHD STUDENTS IN THE SCIENCES?
+
+I was asked this the other day by a recent PhD grad who was interested in a data science career, so I’ll pass on what I told him.
+
+I think there are broadly three kinds of work that take place under the general heading of “data scientist”, although, there are also plenty of exceptions to this.
+
+The first is about turning data into business insight, via statistical modelling, forecasting, predictive analytics, customer segmentation and clustering, survival analysis, churn prediction, visualization, online experiment design, and selection or design of meaningful metrics and KPIs. (Editor note: In the UK this used to be called an ‘Insight Analyst’ role, typical at retail firms or banks)
+
+The second is about developing data-driven products and features for the web, e.g. recommendation engines, trend detectors, anomaly detectors, search and ranking engines, ad placement algorithms, spam and abuse classifiers, content fingerprinting and similarity scoring, etc.
+
+The third is really a more modern take on what used to be called operational research, i.e. optimizing business processes algorithmically to reduce time or cost, or increase coverage or reported satisfaction.
+
+In many companies these will be separate roles, and not all companies do all three. But you’ll also see roles that involve two or occasionally all three of these, in varying proportions. I guess a good start is to think about which appeals to you the most, and that will help guide you.
+
+Don’t get confused by the nomenclature: “data scientist” could mean any of those things, or something else entirely that’s been rebranded to look cool. And you could be doing any of those things and not be called a data scientist. Read the job specs closely and ask lots of questions.
+
+WHAT DO YOU WISH YOU KNEW EARLIER ABOUT BEING A DATA SCIENTIST?
+
+Well, I wish I’d taken double maths for A level, all those years ago! As it was, I took the single option, and chose the mechanics module over statistics, something that held me back ever since despite various post-graduate courses. There are certain things that are just harder to crowbar into an adult brain, if you don’t internalize the concepts early enough. I think languages and music are in that category too.
+
+(For our global readers: A-levels are the qualifications from the last two years of high school. You usually do three or four subjects. You could do standard maths with mechanics or stats, or standard + further with both, which counted as two qualifications.)
+
+I had a similar experience with biology – I dropped it when I was 16 but ended up working in bioinformatics for several years. Statistics and biology are both subjects that are much more interesting than school makes them seem, and I wish I’d known that at the time.
+
+HOW DO YOU RESPOND WHEN YOU HEAR THE PHRASE ‘BIG DATA’?
+
+Well, I used to react with anger and contempt, and have given some pretty opinionated talks on that subject before. It’s one of those things you can’t get away from in the enterprise IT world, but ironically, since I joined Etsy I’ve been numbed to the phrase by over-exposure… Just because the Github repo for our Scalding and Cascading code is called “BigData”.
+
+It’s a marketing term with very little information content – rather like “cloud”. But unlike “cloud” I actually think it’s actively misleading – it focuses attention on the size aspect, when most organisations have interesting and potentially valuable datasets that can fit on a laptop, or at least a medium-sized server. For that matter, a server with a terabyte of RAM isn’t much over $20K these days. “Big data” makes IT departments go all weak-kneed with delight or terror at the prospect of getting a Hadoop (or Spark) cluster, even though that’s often not the right fit at all.
+
+And as a noun phrase, it sucks, as it really doesn’t refer to anything. You can’t say “we solved this problem with big data” as big data isn’t really a thing with any consistent definition.
+
+WHAT IS THE MOST EXCITING THING ABOUT YOUR FIELD?
+
+That’s an interesting one. Deep learning is huge right now, but part of me still suspects it’s a passing fad, partly because I’m old enough to remember when plain-old neural networks were at the same stage of the hype cycle. Then they fell by the wayside for years. That said, the concrete improvements shown by convolutional nets on image recognition tasks are pretty impressive.
+
+Time will tell whether that feat can be replicated in other domains. Recent work on recurrent nets for modelling sequences (text, music, etc.) is interesting, and there’s been some fascinating work from Google (and their acqui-hires DeepMind) on learning to play video games or parse and execute code. These last two examples both combine deep learning with non-standard training methods (reinforcement learning and curriculum learning respectively), and my money’s on this being the direction that will really shake things up. But I’m a layman as far as this stuff goes.
+
+One problem with neural architectures is that they’re often black boxes, or at least pretty dark grey – hard to interpret or gain much insight from. There are still a lot of huge domains where this is a hard sell, education and healthcare being good examples. Maybe someone will invent a learning method with the transparency of decision trees but the power of deep nets, and win over those people in jobs where “just trust the machine” doesn’t work.
+
+HOW DO YOU GO ABOUT FRAMING A DATA PROBLEM – IN PARTICULAR, HOW DO YOU AVOID SPENDING TOO LONG, HOW DO YOU MANAGE EXPECTATIONS ETC. HOW DO YOU KNOW WHAT IS GOOD ENOUGH? 
+
+It took me a long time to realise this, but short release cycles with small iterative improvements are the way to go. Any result that shows an improvement over your current baseline is a result — so even if you think there are much bigger wins to be had, get it into production, and test it on real data, while you work on its replacement. (Or if you’re in academia, get a quick workshop paper out while you work on its replacement!)
+
+This is also a great way to avoid overfitting, especially if you are in industry, or a service-driven academic field like bioinformatics. Instead of constantly bashing away at the error rate on a well-worn standard test set, get some new data from actual users (or cultures or sensors or whatever) and see if your model holds up in real life. And make sure you’re optimizing for the right thing — i.e. that your evaluation metrics really reflect the true cost of a misprediction.
+
+I worked in natural language processing for quite a while, and I’m sure that field was held back for a while by collective, cultural overfitting to the same-old datasets, like Penn Treebank section 23. There’s an old John Langford article about this and other non-obvious ways to overfit, which is always worth a re-read.
+
+WHAT PROJECT HAVE YOU WORKED ON DO YOU WISH YOU COULD GO BACK TO, AND DO BETTER?
+
+All of them. I’m constantly learning and improving and if I could go back I could do all past projects much better. That doesn’t mean I wish to re-do all past projects, as when something is working is working and is done, but for important projects is a good practice on my opinion to keep iterating and re-factoring code, as every month I learn something new that could help doing this better
+
+
+WHAT ADVICE DO YOU HAVE TO YOUNGER ANALYTICS PROFESSIONALS AND IN PARTICULAR PHD STUDENTS IN THE SCIENCES?
+
+Two words: do it. The only way to really learn something is by doing; so be proactive and start getting things done and learning in the process. I would also advice against specializing too much into something unless you have things very clear, a generalist can always get specialized  something later on, but the other way is harder. Plus it would be much beneficial in any early stage career to learn as much as possible from any related disciplines and any business aspects, not only the algorithm or statistics you are working on. Know your environment and learn from everybody around you.
+
+WHAT DO YOU WISH YOU KNEW EARLIER ABOUT BEING A DATA SCIENTIST?
+
+I really haven’t find any bad surprises on my journey, things that I wish I knew early. I think keeping an open mind approach about your role and your company and everything else help a lot on this.
+
+HOW DO YOU RESPOND WHEN YOU HEAR THE PHRASE ‘BIG DATA’?
+
+Well, I think “big data” really change the data and the technology space in terms of what tools (databases, search indexes, and so) we need to use to deal with these amounts of data. But the real revolution it started is a mentality revolution: the “all data is useful” thinking, the data driven approach for decision making… it is al related, we can see how it is already having a real impact in startups, medium companies and big enterprises. That is an approach that can be used in “big” or “small” data, it doesn’t matter and most of the time people actually work with small or medium data, not so many companies are actually doing “big data”. But that is okay!
+
+WHAT IS THE MOST EXCITING THING ABOUT YOUR FIELD?
+
+The thing I find the most exciting is to be able to work with different teams and departments and help everyone in their decision process by using data. I just love to improve processes and open everybody mind to the data driven world!
+Having the freedom to came-up with new ideas and projects to create value out of the data you have in unexpected ways is also something very challenging but rewarding, and I think is a must have in any data science role.
+HOW DO YOU GO ABOUT FRAMING A DATA PROBLEM – IN PARTICULAR, HOW DO YOU AVOID SPENDING TOO LONG, HOW DO YOU MANAGE EXPECTATIONS ETC. HOW DO YOU KNOW WHAT IS GOOD ENOUGH?
+
+The starting point need to be the business: what question are you trying to solve. I’m very pragmatic in framing data problems, and very output oriented. First thing is to formulate a question that makes sense and that will help you in some way, and understand the business problem you are trying to solve or improve – otherwise you won’t be able to know how good is your answer later on!
+Then is the turn of the data itself: what data do you have and how you can use it to answer that question, how close can you get to answering that question? What algorithm do you need to use or how to clean the data are things of technical difficulty, but where you’ll find many resources to help you in the way: courses, books, tutorials, blogs… That’s why I find those first steps the most important ones.
+
+.What project have you worked on do you wish you could go back to, and do better?
+
+You know, that’s a really hard question. The one that comes to mind is a study I did on user churn. The idea was to look at the first few hours or the first day of a user’s experience on the site and see if I could predict which windows would still be active at different times. The goal here was twofold: First, to make a reasonably good predictive model, and second, to identify the key actions users take that lead to them either becoming more engaged or deleting their account, in order to improve user experience. The initial study I did was actually pretty solid. I had to do a lot of work to collect, clean and process the data (the sets were very large, so parallel querying, wrangling and de-normalization came into play) and then build some relatively simple models. Those models worked well and offered some insights. The study sort of stopped there, though, as other priorities took over, and I thought that I could always go back to it. Then we switched over our data pipe, and, inadvertently, a large chunk of that data was lost, so the studies can’t be repeated or revisited. I wish I could go back and either save the sets, make sure we didn’t lose them, or have done more initial work to advance it. I still hope to get back to that someday, but it’ll take our new data pipe to be fully in place.
+
+WHAT ADVICE DO YOU HAVE TO YOUNGER ANALYTICS PROFESSIONALS AND IN PARTICULAR PHD STUDENTS IN THE SCIENCES?
+
+Learn statistics! It’s the single best piece of advice I can offer. So many people equate ‘Data Science’ with ‘Machine Learning’, and while that’s a large part of it, stats is just as (if not more) important. A lot of people don’t realize that machine learning is basically computational techniques for model fitting in statistics. A solid background in statistics really informs choices about model building, as well as opening up whole other fields like experiment design/testing. When I interview or speak to people, I’m often surprised by how many people can tell me about deep learning, but not basic regression – or how to run a split test properly.
+
+“Learn statistics! It’s the single best piece of advice I can offer.”tweet this
+WHAT DO YOU WISH YOU KNEW EARLIER ABOUT BEING A DATA SCIENTIST?
+
+As I said before, I wish I knew more statistics when I first started out. The other thing I’m still learning myself is communication. Coming from an academic background, I had a lot of practice giving talks, and teaching. Nearly all of that, however, was to other specialists or at the least others of a similar background. In my current role, I interact a lot more with people who aren’t PhD level scientists, or aren’t even technical. Learning to communicate with them and still get my points across is an ongoing challenge. I wish I had had a bit more practice with those sort of things earlier on.
+
+HOW DO YOU RESPOND WHEN YOU HEAR THE PHRASE ‘BIG DATA’?
+
+Honestly? I shudder. That phrase has become such a buzzword it’s pretty much lost all meaning. People throw it around pretty much everywhere at this point. The other bit that makes me shudder is when people tell me all about the size of their dataset, or how many nodes are in their cluster. Working with a very large amount of data can be exciting, but only insofar as the data itself is. I’ve found that there’s a growing culture of people who think the best way to solve a problem is to add more data and more features, which falls into the trap of overfitting, and overly complicated models. There’s a reason things like sampling theory and feature selection exist, and it’s important to question if you’re using a “big data” set because you really need it for the problem at hand, or because you want to say you used one. That said, there are some problems and algorithms that require truly huge amounts of input, or some problems where aggregating/summarizing requires processing a very large amount of raw data, and then it’s definitely appropriate to add as much data as possible.
+
+I suppose I should actually define the term as I see it. To me, “big data” is any data size where the processing, storing and querying of the data becomes a difficult problem unto itself. I like that definition because it’s operational, it defines when I need to change up the way I think and approach a problem. I also like it because it scales, while today a data set of a particular size might be a “big data” set, in a few years it won’t be and something else will. My definition will still hold.
+
+WHAT IS THE MOST EXCITING THING ABOUT YOUR FIELD?
+
+What excites me is applying all of this machinery to real world problems. To me, it’s always about the insights and applications to our actual human experience. At POF, that comes down to seeing how people interact, match up, etc. It’s most exciting to me when those insights bump up against our assumed standard lore. Moving beyond POF, I see the same sort of approach in a lot of other really interesting areas, whether it be from baseball stats, political polling, healthcare etc. There’s a lot of really interesting questions about the human condition that we can start to address with Data Science.
+
+HOW DO YOU GO ABOUT FRAMING A DATA PROBLEM – IN PARTICULAR, HOW DO YOU AVOID SPENDING TOO LONG, HOW DO YOU MANAGE EXPECTATIONS ETC. HOW DO YOU KNOW WHAT IS GOOD ENOUGH?
+
+I think it comes down to the problem itself, and as part of that I mean what the business needs are. There have been times where something that just worked decently was needed on a very short time frame and other times where designing the best system was the deciding factor (e.g. when I built automatic scam and fraud detection which took about six months). For every problem or task at hand, I usually try to scope the requirements and the desired performance constraints and then start iterating. Sometimes the simplest model is accurate enough and the cost benefit of spending a large chunk of time for a small marginal gain really isn’t worth it. The other issue is whether this is a model for a report versus something that has to run in production like scam detection. Designing for production adds on a host of other requirements from performance, specific architectures and much more stringent error handling which greatly increases the time spent. It’s also important to remember that there’s nothing preventing you from going back to a problem. If the original model isn’t quite up to snuff anymore, or someone wants more accurate predictions, you just go back. To that end, well documented, version controlled code and notebooks are essential.

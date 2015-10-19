@@ -1,0 +1,72 @@
+WHAT PROJECTS HAVE YOU WORKED ON THAT YOU WISH YOU COULD GO BACK TO AND DO BETTER?
+
+I agree that it is better to look forward rather than look backward. And my skills have frankly improved since I first started doing what we could call professional data analysis (which was probably just before starting my Masters a few years ago).
+
+One project I did which springs to mind (and not naming names) is where there was a huge breakdown in communication and misaligned incentives. There needed to be more communication on that project and it overran the initial allotted time. I also spent not enough time communicating up front the risks and opportunities with the stakeholders.
+
+The data was a lot messier than expected, and management had committed to delivered results in 2 weeks. This was impossible, the data cleaning and exploration phase took too long. Now I would focus on quicker wins. I also rushed to the ‘modelling’ phase without really understanding the data. I think such terms ‘understanding the data’ sound a bit academic to some stakeholders, but you need to clearly and articulately explain how important the data generation process is, and the uncertainty in that data.
+
+Some of this comes from experience – now I focus on adding value as quickly as possible and keeping things simple. There I fell to the siren call of ‘do more analysis’ rather than thinking about how the analysis is conveyed.
+
+WHAT ADVICE DO YOU HAVE TO YOUNGER ANALYTICS PROFESSIONALS AND IN PARTICULAR PHD STUDENTS IN THE SCIENCES?
+
+I don’t have a PhD but I have recently been giving advice to people in that situation.
+
+My advice is that having a portfolio of work if possible is great, or at least move towards doing an online course on Machine Learning or something cool like that.
+
+The PyData videos are a good start too to watch. I’d recommend if you can to do any outreach or communication skills courses. There are many such courses at a lot of universities around the world, it’ll just help you understand the needs of others.
+
+I think frankly that the most important skill for a Data Science is the ‘tactical application of empathy’ and that is something that working in a team really helps you develop. One thing I feel my Masters let me down on – as is common in Pure Mathematics – was a shortage of experience working in a team.
+
+WHAT DO YOU WISH YOU KNEW EARLIER ABOUT BEING A DATA SCIENTIST?
+
+The focus on communication skills, the need to add value every day. The fact that budget or a project can be terminated at any moment.
+
+Adding value every day means showing results and sharing them, talking to people about stuff. Share visualizations, and share results – a lot of data science is about relationships and empathy. In fact I think that the tactical application of empathy is the greatest skill of our times.
+
+'The tactical application of empathy is the greatest skill of our times' - @springcoil CLICK TO TWEET
+You need to get out there and speak to the domain specialist, and understand what they understand. I believe that the best algorithms incorporate human as well as machine intelligence.
+
+HOW DO YOU RESPOND WHEN YOU HEAR THE PHRASE ‘BIG DATA’?
+
+I do like the distinction of small, medium and big data. I don’t worry so much about the terminology, and I focus on understanding exactly what my stakeholder wants from it.
+
+I think, though, that it is often a distraction. I did one proof of concept as a consultant, that was an operational disaster. We didn’t have the resources to support a dev ops culture, nor did we have the capabilities to support a Hadoop cluster. Even worse the problem really could be solved more intelligently by being in RAM. But I got excited by the new tools, without understanding what they were really for.
+
+I think this is a challenge, part of myself maturing as an engineer/data scientist is appreciating the limits of tools and avoiding the hype. Most companies don’t need a cluster, and the mean size of a cluster will remain one for a long time. Don’t believe the salesmen, and ask the experts in your community about what is needed.
+
+In short: I feel it is strongly misleading but it is certainly here to stay.
+
+HOW DID YOU END UP BEING A DATA ANALYST? WHAT IS THE MOST EXCITING THING ABOUT YOUR FIELD?
+
+My academic and professional career have a bit of weird path. I started at Bristol in a Physics and Philosophy program. It was a really exciting time, and I learned a lot (some of it non-academic). I went into that program because I wanted to learn everything. At various points – especially in 2009-2010 the terminology of ‘data science’ began to pick up, and when I went into grad school in 2010, I was ‘aware’ of the discipline. I took a lot of financial maths classes at Luxembourg, just to keep that option open, yet I still in my heart wanted to be an academic.
+
+I eventually realized (after some soul-searching) that academic opportunities were going to be too difficult to get, and that I could earn more in industry. So I did a few industrial internships including one at import.io, and towards the end of my Masters – I did a 6 month internship at a ‘small’ e-commerce company called Amazon.
+
+I learned a lot at Amazon, and it was there that I realized i needed to work a lot harder on my software engineering skills. I’ve been working on them in my working life and through contributing to open source software and my various speaking engagements. I strongly recommend to any wanna data geeks to come to these and share your own knowledge :)
+
+The most exciting thing about my field relates to the first statement about physics and philosophy – we truly are drowning in data, and we really with the computational resources we have now have the ability to answer or simulate certain questions in a business context. The web is a microscope, and your ERP system tells you more about your business than you can actually imagine – I’m very excited to help companies exploit their data.
+
+HOW DO YOU GO ABOUT FRAMING A DATA PROBLEM – IN PARTICULAR, HOW DO YOU AVOID SPENDING TOO LONG, HOW DO YOU MANAGE EXPECTATIONS ETC. HOW DO YOU KNOW WHAT IS GOOD ENOUGH?
+
+I like the OSEMIC framework (which I developed myself) and the CoNVO framework (which comes from Thinking with Data by Max Schron – I recommend the following video for an intro and the book itself.)
+
+Let me explain – at the beginning of an ‘engagement’ I look for the Context, Need, Vision and Outcome of the project. Outcome means the delivery and asking these questions by having a conversation with stakeholders is a really good way to get to solving the ‘business problem’.
+
+'I look for the Context, Need, Vision and Outcome of the project'' - @springcoil #datascience CLICK TO TWEET
+A lot of this after a few years in the business still feels like an art rather than a science.
+
+I like explaining to people the Data Science process – obtain data, scrub data, explore, model, interpret and communicate.
+
+I think a lot of people get these kinds of notions and a lot of my conversations recently at work have been about data quality – and data quality really needs domain knowledge. It is amazing how easy it is to misinterpret a number – especially around things like unit conversion etc.
+
+YOU SPENT SOMETIME AS A CONSULTANT IN DATA ANALYTICS. HOW DID YOU MANAGE CULTURAL CHALLENGES, DEALING WITH STAKEHOLDERS AND EXECUTIVES? WHAT ADVICE DO YOU HAVE FOR NEW STARTERS ABOUT THIS?
+
+I would see a lot of the stuff above. One challenge is that some places aren’t ready for a data scientist nor do they know how to use one. I would avoid such places, and look for work elsewhere.
+
+Some of this is a lack of vision, and one reason I do a lot of talks is to do ‘educated selling’ about the gospel of data-informed decision making and how the new tools such as the PyData stack and R are helping us extract more and more value out of data.
+
+I’ve also found that visualizations help a lot, humans react to stories and pictures more than to numbers.
+
+My advice to new-starters is over communicate, and learn some soft skills. The frameworks I mentioned help a bit in structuring and explaining a project to stakeholders. I recommend also reading this interview series, I learned a lot from it too. :)
+
